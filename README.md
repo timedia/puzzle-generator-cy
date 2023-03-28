@@ -154,7 +154,7 @@ java -jar NP.jar  -s  problem_file	[answer_file]
 java -jar NP.jar  -g  pattern_file	[problem_file]
 ```
 
-パラメータなしで`NP.jar`を起動すると、上記のように入力形式を表示します。
+パラメータなしで`NP.py`を起動すると、上記のように入力形式を表示します。
 パラメータにエラーがある場合も、上記の表示になります。
 
 データを、GitHubの配置と同じで、dataフォルダに置いた状態になっているとします。
